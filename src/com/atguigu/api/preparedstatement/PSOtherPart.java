@@ -11,7 +11,7 @@ import java.sql.SQLException;
  * ClassName: PSOtherPart
  * PackageName: com.atguigu.api.preparedstatement
  * Description:
- *
+ * prepareStatement 批量增加测试
  * @Author: Hanyu
  * @Date: 2023/12/3 - 9:55
  * @Version: v1.0
